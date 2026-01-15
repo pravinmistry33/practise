@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict from main
+=======
+Conflict from branch
+>>>>>>> conflict-branch
